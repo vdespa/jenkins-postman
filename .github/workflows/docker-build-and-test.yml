@@ -57,5 +57,6 @@ jobs:
           docker buildx build \
             --platform linux/amd64 \
             --tag ${{ secrets.DOCKER_USERNAME }}/jenkins-postman:latest \
+            --tag ${{ secrets.DOCKER_USERNAME }}/jenkins-postman:$TAG \
             --push \
             .
