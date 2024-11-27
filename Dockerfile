@@ -1,4 +1,4 @@
-FROM jenkins/jenkins:lts-jdk11
+FROM jenkins/jenkins:lts-jdk17
 USER root
 RUN curl -o- "https://dl-cli.pstmn.io/install/linux64.sh" | sh
 RUN curl -fsSL https://deb.nodesource.com/setup_18.x | sh
