@@ -1,4 +1,4 @@
-# Jenkins installation for learning Postman automation
+# Jenkins installation (for learning Postman automation)
 
 This resource is part of the [Postman: The Complete Guide to REST API Testing](https://www.udemy.com/course/postman-the-complete-guide/?referralCode=4E8B90BA4B5EE8DA9237) course on Udemy.
 
